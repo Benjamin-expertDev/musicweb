@@ -1,0 +1,25 @@
+body{
+background-color: rgb(17, 17, 63);
+}
+.full{
+display: flex;
+justify-content: space-between;
+padding-left: 120px;
+padding-right: 200px;
+margin-top: 80px;
+margin-bottom: 140px;
+}
+.text{
+    padding-top: 120px;
+    padding-left: 200px;
+    
+}
+.joined{
+    color: purple;
+}
+.form{
+    background-color: rgb(2, 2, 46);
+    color: white;
+    
+    
+}
